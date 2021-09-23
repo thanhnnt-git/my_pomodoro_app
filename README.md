@@ -3,7 +3,7 @@
 A new promodoro timer app
 Created by Thanh - at 22/9/2021; 21:18
 ## Getting Started
-# Step 1: Design UI: https://dribbble.com/shots/11897384-Pomodoro-Timer-App
+### Step 1: Design UI: https://dribbble.com/shots/11897384-Pomodoro-Timer-App
 Color Palette:
 - #090a0a
 - #8eb1df
@@ -15,7 +15,7 @@ Color Palette:
 font:
 - mono spacce
 
-# Step 2: Find packages
+### Step 2: Find packages
 
 
 
